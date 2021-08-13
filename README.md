@@ -1,2 +1,2 @@
-# bookkeeping
-记账本
+# bookkeeping-egg
+记账本服务
